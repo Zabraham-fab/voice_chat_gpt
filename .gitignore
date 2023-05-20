@@ -1,5 +1,5 @@
 # .gitignore
-api_key.py
+api_secret.py
 voice_chat_gpt_tr.py
 deneme.py
 ses.mp3
