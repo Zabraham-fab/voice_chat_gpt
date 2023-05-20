@@ -1,6 +1,6 @@
 # voice_chat_gpt
 
-<img src="https://github.com/Zabraham-fab/Gpt-Bot/blob/b04d3101857db4fce418422e38b64b99a884bc6a/200940.png">
+<img src="https://github.com/Zabraham-fab/voice_chat_gpt/blob/101939e4ef142dc45f921a74ee67078a8711caba/200940.png">
 
 
 I have written the code for a chat bot that can engage in voice-based conversations using the Python language. Several libraries and modules were used to implement this project. Here are some of the key features of the project:
